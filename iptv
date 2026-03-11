@@ -283,6 +283,18 @@ http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/408
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/409
 #EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/iberalia_original.png" group-title="DOCUMENTALES",ES: IBERALIA TV
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/16645
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN
+http://vipboacnn.top:8080/VIP011031738993884331/7d75df509706/4757
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="https://docdog.top/logo/countries//argentina/espn-2-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 2
+http://vipboacnn.top:8080/VIP011031738993884331/7d75df509706/4758
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="https://docdog.top/logo/countries//argentina/espn-3-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN 3
+http://vipboacnn.top:8080/VIP011031738993884331/7d75df509706/4759
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA VIP",ARG: ESPN+
+http://vipboacnn.top:8080/VIP011031738993884331/7d75df509706/4760
+#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA VIP",ARG: EUROPA
+http://vipboacnn.top:8080/VIP011031738993884331/7d75df509706/4761
+#EXTINF:-1 tvg-id="" tvg-name="CL: WIN SPORT PLUS" tvg-logo="https://docdog.top/logo/countries/chile/winsportplus.png" group-title="LAME | CHILE VIP",CL: WIN SPORT PLUS
+http://vipkendrake.top:8080/VIP0126170584356149/314ec4dc13c7/5274
 #EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="DEPORTES",ES: RALLY TV
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/410
 #EXTINF:-1 tvg-id="" tvg-name="CH1" tvg-logo="" group-title="PPV",CH1
@@ -309,8 +321,6 @@ http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/31411
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/31412
 #EXTINF:-1 tvg-id="" tvg-name="CH12" tvg-logo="" group-title="PPV",CH12
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/31413
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ HITS" tvg-logo="" group-title="MUSICA",ES: M+ HITS
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/38897
 #EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 01
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74455
 #EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 02" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 02
@@ -377,26 +387,6 @@ http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74506
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74507
 #EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 08" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 08
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74508
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 1
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74509
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 2
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74510
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 3
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74511
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 4
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74512
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 5
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74513
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 1
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74514
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 2
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74515
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 3
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74516
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 4
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74517
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 5
-http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/74518
 #EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 1 FHD
 http://espeeoydee.top:8080/ES0118175552894162/xgnqrw423c5r/16788
 #EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 2 FHD
