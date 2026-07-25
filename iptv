@@ -113,12 +113,6 @@ http://vppyddncr.top:8080/08072024LC/08072024LC/293
 http://vppyddncr.top:8080/08072024LC/08072024LC/281
 #EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 2
 http://vppyddncr.top:8080/08072024LC/08072024LC/282
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
-http://vppyddncr.top:8080/08072024LC/08072024LC/631
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS VIP",ES: TOROLE TV
-http://vppyddncr.top:8080/08072024LC/08072024LC/37678
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 2) ONETORO
-http://vppyddncr.top:8080/08072024LC/08072024LC/38816
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS
 http://vppyddncr.top:8080/08072024LC/08072024LC/632
 #EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) M+ VAMOS 2" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS 2
@@ -141,24 +135,6 @@ http://vppyddncr.top:8080/08072024LC/08072024LC/633
 http://vppyddncr.top:8080/08072024LC/08072024LC/285
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="ES | DEPORTES VIP",ES: M+ GOLF 2
 http://vppyddncr.top:8080/08072024LC/08072024LC/58727
-#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="ES: BABY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="ES | INFANTILES VIP",ES: BABY TV
-http://vppyddncr.top:8080/08072024LC/08072024LC/636
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | INFANTILES VIP",ES: BOING
-http://vppyddncr.top:8080/08072024LC/08072024LC/637
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES: CLAN TVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ES | INFANTILES VIP",ES: CLAN TVE
-http://vppyddncr.top:8080/08072024LC/08072024LC/638
-#EXTINF:-1 tvg-id="Enfamilia" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamilia.png" group-title="ES | INFANTILES VIP",ES: ENFAMILIA
-http://vppyddncr.top:8080/08072024LC/08072024LC/639
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | INFANTILES VIP",ES: DISNEY CHANNEL
-http://vppyddncr.top:8080/08072024LC/08072024LC/640
-#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | INFANTILES VIP",ES: DISNEY JUNIOR
-http://vppyddncr.top:8080/08072024LC/08072024LC/641
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="ES: DREAMWORKS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | INFANTILES VIP",ES: DREAMWORKS
-http://vppyddncr.top:8080/08072024LC/08072024LC/643
-#EXTINF:-1 tvg-id="NickJr.es" tvg-name="ES: NICK JR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | INFANTILES VIP",ES: NICK JR
-http://vppyddncr.top:8080/08072024LC/08072024LC/644
-#EXTINF:-1 tvg-id="es.Nickelodeon" tvg-name="ES: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | INFANTILES VIP",ES: NICKELODEON
-http://vppyddncr.top:8080/08072024LC/08072024LC/645
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | TOP CANALES VIP",ES: TELECINCO
 http://vppyddncr.top:8080/08072024LC/08072024LC/647
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TOP CANALES VIP",ES: LA 1
@@ -171,6 +147,26 @@ http://vppyddncr.top:8080/08072024LC/08072024LC/646
 http://vppyddncr.top:8080/08072024LC/08072024LC/650
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | TOP CANALES VIP",ES: CUATRO
 http://vppyddncr.top:8080/08072024LC/08072024LC/651
+#EXTINF:-1,ES: AMC WESTERN FHD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77219
+#EXTINF:-1,ES: AMC WESTERN HD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77220
+#EXTINF:-1,ES: AMC WESTERN SD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77221
+#EXTINF:-1,ES: SQUIRREL TV FHD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76551
+#EXTINF:-1,ES: SQUIRREL TV HD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76587
+#EXTINF:-1,ES: SQUIRREL  SD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77178
+#EXTINF:-1,ES: SQUIREEL 2
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76895
+#EXTINF:-1,ES: TENNIS CHANNEL FHD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76514
+#EXTINF:-1,ES: TENNIS CHANNEL HD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76515
+#EXTINF:-1,ES: TENNIS CHANNEL
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77449
 #EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | TOP CANALES VIP",ES: FACTORÍA DE FICCIÓN
 http://vppyddncr.top:8080/08072024LC/08072024LC/652
 #EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | TOP CANALES VIP",ES: NOVA
