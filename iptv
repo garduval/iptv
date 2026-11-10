@@ -11,26 +11,32 @@ http://neospaxy.top:8080/01673503200974067/277913f8f527/5588
 http://neospaxy.top:8080/01673503200974067/277913f8f527/5734
 #EXTINF:-1 tvg-id="sexta.movistarplus.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | GENERAL",ES: LA SEXTA
 http://neospaxy.top:8080/01673503200974067/277913f8f527/5625
-#EXTINF:-1,ES: AMC WESTERN FHD
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77219
-#EXTINF:-1,ES: AMC WESTERN HD
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77220
-#EXTINF:-1,ES: AMC WESTERN SD
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77221
-#EXTINF:-1,ES: SQUIRREL TV FHD
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76551
-#EXTINF:-1,ES: SQUIRREL TV HD
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76587
-#EXTINF:-1,ES: SQUIRREL  SD
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77178
-#EXTINF:-1,ES: SQUIREEL 2
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76895
-#EXTINF:-1,ES: TENNIS CHANNEL FHD
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76514
-#EXTINF:-1,ES: TENNIS CHANNEL HD
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76515
-#EXTINF:-1,ES: TENNIS CHANNEL
-http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77449
+#EXTINF:-1 tvg-id="AMC Western" tvg-name="ES: AMC WESTERN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/zapi/AMC_WESTERN.png" group-title="ES | ZAPI TV",ES: AMC WESTERN FHD
+http://zk85.eshofrcep.top:8080/ES0149174084444225/f9bcvg3mynga/77219
+#EXTINF:-1 tvg-id="AMC Western" tvg-name="ES: AMC WESTERN HD" tvg-logo="https://docdog.top/logo/countries/new/es/zapi/AMC_WESTERN.png" group-title="ES | ZAPI TV",ES: AMC WESTERN HD
+http://zk85.eshofrcep.top:8080/ES0149174084444225/f9bcvg3mynga/77220
+#EXTINF:-1 tvg-id="AMC Western" tvg-name="ES: AMC WESTERN SD" tvg-logo="https://docdog.top/logo/countries/new/es/zapi/AMC_WESTERN.png" group-title="ES | ZAPI TV",ES: AMC WESTERN SD
+http://zk85.eshofrcep.top:8080/ES0149174084444225/f9bcvg3mynga/77221
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINE WESTERN" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CINE_WESTERN.png" group-title="ES | TIVIFY",ES: CINE WESTERN
+http://zk85.eshofrcep.top:8080/ES0149174084444225/f9bcvg3mynga/77441
+#EXTINF:-1 tvg-id="squirrel.es" tvg-name="ES: SQUIRREL TV FHD" tvg-logo="https://squirrelmedia.es/img/ico/1750068329_black_negro.png" group-title="EU|ES TDT",ES: SQUIRREL TV FHD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1304428.ts
+#EXTINF:-1 tvg-id="squirrel.es" tvg-name="ES: SQUIRREL TV HD" tvg-logo="https://squirrelmedia.es/img/ico/1750068329_black_negro.png" group-title="EU|ES TDT",ES: SQUIRREL TV HD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1304429.ts
+#EXTINF:-1 tvg-id="squirrel.es" tvg-name="ES: SQUIRREL TV SD" tvg-logo="https://squirrelmedia.es/img/ico/1750068329_black_negro.png" group-title="EU|ES TDT",ES: SQUIRREL TV SD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1304430.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SQUIRREL TV 2 FHD" tvg-logo="https://squirrelmedia.es/img/ico/1750068329_black_negro.png" group-title="EU|ES TDT",ES: SQUIRREL TV 2 FHD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1304431.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SQUIRREL TV 2 HD" tvg-logo="https://squirrelmedia.es/img/ico/1750068329_black_negro.png" group-title="EU|ES TDT",ES: SQUIRREL TV 2 HD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1304432.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: SQUIRREL TV 2 SD" tvg-logo="https://squirrelmedia.es/img/ico/1750068329_black_negro.png" group-title="EU|ES TDT",ES: SQUIRREL TV 2 SD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1304433.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC WESTERN FHD" tvg-logo="https://amcnetworks.es/wp-content/uploads/2026/02/AMCWESTERN_COLOR-1.png" group-title="EU|ES CINE & SERIES",ES: AMC WESTERN FHD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1302792.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: AMC WESTERN HD" tvg-logo="https://amcnetworks.es/wp-content/uploads/2026/02/AMCWESTERN_COLOR-1.png" group-title="EU|ES CINE & SERIES",ES: AMC WESTERN HD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1302793.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC WESTERN SD" tvg-logo="https://amcnetworks.es/wp-content/uploads/2026/02/AMCWESTERN_COLOR-1.png" group-title="EU|ES CINE & SERIES",ES: AMC WESTERN SD
+http://gdq3yn6a.gts1fma.xyz:80/play/tf1207144/hWsRP5yqSATv/1302794.ts
 #EXTINF:-1 tvg-id="daznli.movistarplus.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD) DAZN LALIGA
 http://neospaxy.top:8080/01673503200974067/277913f8f527/25125
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | LALIGA",ES: (HD REPUESTO) DAZN LALIGA
